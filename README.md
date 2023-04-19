@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kit0-0&label=Profile%20views&color=0e75b6&style=flat" alt="kit0-0" /> </p>
 
-        <img src="https://i.gifer.com/DPrk.gif" alt="">
+        
 
 
 <!--
