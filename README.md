@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm kiko</h1>
       
 ![DPrk](https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Keep calm My profile under construction)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=Keep+Calm+My+profile+under+construction;comming+sooooon....)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kit0-0&label=Profile%20views&color=0e75b6&style=flat" alt="kit0-0" /> </p>
 
