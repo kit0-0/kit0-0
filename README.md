@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kit0-0&label=Profile%20views&color=0e75b6&style=flat" alt="kit0-0" /> </p>
 
-<div class="tenor-gif-embed" data-postid="8054261" data-share-method="host" data-aspect-ratio="1.16935" data-width="100%"><a href="https://tenor.com/view/cat-excited-type-anime-keyboard-gif-8054261">Cat Excited GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        <img src="https://i.gifer.com/DPrk.gif" alt="">
+
 
 <!--
 **kit0-0/kit0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
