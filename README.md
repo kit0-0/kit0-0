@@ -14,7 +14,7 @@ I'm Kirti Arora(Kiko), a curious developer exploring the realms of code and crea
 
 💡 I believe in the power of simplicity and elegant design, and I'm constantly learning and experimenting with new technologies.
 
-⚡ Fun fact: Coffee fuels my coding adventures, and I'm always up for a good cup of java!
+⚡ Fun fact: Coffee fuels my coding adventures, and I'm always up for my script of javascript!
 
 🌈 Join me as I embark on this exciting journey, one line of code at a time.
 
