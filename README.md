@@ -16,12 +16,12 @@ I'm Kirti Arora (Kiko), a curious developer exploring the realms of code and cre
 
 🌈 Join me as I embark on this exciting journey, one line of code at a time.
 
-### 💻 Tech Stack:
+<!-- ### 💻 Tech Stack:
 
 - 🚀 Languages: JavaScript, HTML, CSS
 - ⚡ Frameworks: React.js, Express.js
 - 🌐 Front-end: Bootstrap, Tailwind CSS
-- 📦 Databases: MongoDB, MySQL
+- 📦 Databases: MongoDB, MySQL -->
 
 ### ✨ Projects:
 
