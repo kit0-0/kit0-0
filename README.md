@@ -36,7 +36,7 @@ I'm Kirti Arora (Kiko), a curious developer exploring the realms of code and cre
       title: "Tic Tac Toe",
       description: "A creative coding experiment game.",
       technologies: ["React", "HTML", "CSS", "JavaScript"],
-      features: ["Challenging AI opponent", "Strategic gameplay"],
+      features: [ "Strategic gameplay"],
       };
 - 🌟 const catWithSass = {
      title: "Cat With Sass",
