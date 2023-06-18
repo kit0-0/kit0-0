@@ -16,6 +16,8 @@ I'm Kirti Arora (Kiko), a curious developer exploring the realms of code and cre
 
 🌈 Join me as I embark on this exciting journey, one line of code at a time.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in//) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/) 
 
 <br/><br/>
 ## 🔧 Technologies & Tools
@@ -51,4 +53,4 @@ I'm Kirti Arora (Kiko), a curious developer exploring the realms of code and cre
   </div>   
 </div>
 
-Happy coding! 🚀
+
