@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kiko</h1>
+<h1 align="center">Hi 👋, I'm Kirti Arora</h1>
       <!--
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif">-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&width=550&height=45&lines=🌟+Welcome+to+my+coding+universe!+🚀)](https://git.io/typing-svg)
--->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kit0-0&label=Profile%20views&color=0e75b6&style=flat" alt="kit0-0" /> </p>
 
 I'm Kirti Arora (Kiko), a curious developer exploring the realms of code and creativity. 
