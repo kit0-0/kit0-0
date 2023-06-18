@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kiko</h1>
-      
+      <!--
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&width=550&height=45&lines=🌟+Welcome+to+my+coding+universe!+🚀)](https://git.io/typing-svg)
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kit0-0&label=Profile%20views&color=0e75b6&style=flat" alt="kit0-0" /> </p>
 
 I'm Kirti Arora (Kiko), a curious developer exploring the realms of code and creativity. 
@@ -15,9 +15,6 @@ I'm Kirti Arora (Kiko), a curious developer exploring the realms of code and cre
 ⚡ Fun fact: Coffee fuels my coding adventures, and I'm always up for scripting with JavaScript!
 
 🌈 Join me as I embark on this exciting journey, one line of code at a time.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in//) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/) 
 
 <br/><br/>
 ## 🔧 Technologies & Tools
@@ -53,4 +50,12 @@ I'm Kirti Arora (Kiko), a curious developer exploring the realms of code and cre
   </div>   
 </div>
 
+### 🌟 Let's Connect:
+
+I'm always excited to connect with fellow developers and share ideas. Feel free to reach out!
+
+✉️ [Email Address]
+🌐 [Portfolio Website](https://kit0-0.github.io/Mobile-Portfolio/)
+🐦 [Twitter](https://twitter.com/[Your Twitter Handle])
+💼 [LinkedIn](https://www.linkedin.com/in/[Your LinkedIn Profile])
 
