@@ -50,13 +50,5 @@ I'm Kirti Arora (Kiko), a curious developer exploring the realms of code and cre
     </a>
   </div>   
 </div>
-<!-- ### 🌟 Let's Connect:
-
-I'm always excited to connect with fellow developers and share ideas. Feel free to reach out!
-
-✉️ [Email Address]
-🌐 [Portfolio Website](https://www.yourwebsite.com)
-🐦 [Twitter](https://twitter.com/[Your Twitter Handle])
-💼 [LinkedIn](https://www.linkedin.com/in/[Your LinkedIn Profile]) -->
 
 Happy coding! 🚀
