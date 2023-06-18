@@ -54,8 +54,7 @@ I'm Kirti Arora (Kiko), a curious developer exploring the realms of code and cre
 
 I'm always excited to connect with fellow developers and share ideas. Feel free to reach out!
 
-✉️ [Email Address]
-🌐 [Portfolio Website](https://kit0-0.github.io/Mobile-Portfolio/)
-🐦 [Twitter](https://twitter.com/[Your Twitter Handle])
-💼 [LinkedIn](https://www.linkedin.com/in/[Your LinkedIn Profile])
+🌐 [Portfolio Website](https://kit0-0.github.io/Mobile-Portfolio/) <br/>
+🐦 [Twitter](https://twitter.com/)<br/>
+💼 [LinkedIn](https://www.linkedin.com/in/)
 
