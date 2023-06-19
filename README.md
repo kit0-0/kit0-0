@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirti Arora</h1>
-      <!--
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif">-->
+    
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&width=550&height=45&lines=🌟+Welcome+to+my+coding+universe!+🚀)](https://git.io/typing-svg)
 
