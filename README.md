@@ -42,12 +42,7 @@ I'm Kirti Arora (Kiko), a curious developer exploring the realms of code and cre
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kit0-0&layout=compact&theme=midnight-purple" />
   </a>
 
-
-  <div align="center">
-    <a href="https://github.com/kit0-0">
-      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=kit0-0&theme=midnight-purple" />
-    </a>
-  </div>   
+   
 </div>
 
 ### 🌟 Let's Connect:
