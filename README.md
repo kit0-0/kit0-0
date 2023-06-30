@@ -35,13 +35,16 @@ I'm Kirti Arora (Kiko), a curious developer exploring the realms of code and cre
 ## &#x1f4c8; GitHub Stats
 <div align='center'>
   <a href="https://github.com/kit0-0">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=kit0-0&&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=kit0-0&&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false" />
   </a> 
 
   <a href="https://github.com/kit0-0">
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kit0-0&layout=compact&theme=midnight-purple" />
   </a>
 
+ <a href="https://github.com/kit0-0">
+    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=kit0-0&theme=midnight-purple&hide_border=true" />
+  </a>
    
 </div>
 
